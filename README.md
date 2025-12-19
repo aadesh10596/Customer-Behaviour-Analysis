@@ -100,6 +100,8 @@ Strengthen loyalty programs to improve retention
 Prioritize high-rated and best-selling products
 
 ## Power BI Dashboard Highlights
+<img width="901" height="496" alt="image" src="https://github.com/user-attachments/assets/2100fe36-2b03-489c-8aec-cbce1776bfbc" />
+
 
 Total Customers: 3.9K
 
